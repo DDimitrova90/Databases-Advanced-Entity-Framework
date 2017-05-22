@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Trappist-1 c",
+    "Mass": 1.38,
+    "Orbiting": [
+      {
+        "Name": "Trappist-1"
+      }
+    ]
+  },
+  {
+    "Name": "Trappist-1 b",
+    "Mass": 0.85,
+    "Orbiting": [
+      {
+        "Name": "Trappist-1"
+      }
+    ]
+  }
+]

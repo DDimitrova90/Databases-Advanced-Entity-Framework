@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <name>Krasi Krasev</name>
+    <gender>Male</gender>
+    <birthDate>1986/10/25</birthDate>
+    <phoneNumber>0867452315</phoneNumber>
+    <email>krasi.krasev@abv.bg</email>
+    <university>UNSS</university>
+    <specialty>Finance</specialty>
+    <facultyNumber>12365478</facultyNumber>
+    <exams>
+      <exam>
+        <name>Law</name>
+        <dateTaken>2017/03/05</dateTaken>
+        <grade>5.50</grade>
+      </exam>
+      <exam>
+        <name>Mathematics</name>
+        <dateTaken>2017/03/18</dateTaken>
+        <grade>5.00</grade>
+      </exam>
+      <exam>
+        <name>Macroeconomics</name>
+        <dateTaken>2017/04/01</dateTaken>
+        <grade>4.50</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Ivanka Ivanova</name>
+    <gender>Female</gender>
+    <birthDate>1990/05/11</birthDate>
+    <phoneNumber>0897456321</phoneNumber>
+    <email>ivanka.ivanova@abv.bg</email>
+    <university>Software University</university>
+    <specialty>Programming</specialty>
+    <facultyNumber>78965412</facultyNumber>
+    <exams>
+      <exam>
+        <name>Programming Basics</name>
+        <dateTaken>2016/04/08</dateTaken>
+        <grade>6.00</grade>
+      </exam>
+      <exam>
+        <name>DataBases Advanced</name>
+        <dateTaken>2017/04/09</dateTaken>
+        <grade>5.50</grade>
+      </exam>
+      <exam>
+        <name>C# Fundamentals</name>
+        <dateTaken>2017/06/15</dateTaken>
+        <grade>6.00</grade>
+      </exam>
+    </exams>
+  </student>
+</students>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product name="SEPHORA Acne-Fighting Mattifying Moisturizer" price="1019.28" buyer="Thomas Snyder" />
+  <product name="Acetic Acid" price="1060.43" buyer="Peterson" />
+  <product name="Growing Pains" price="1077.37" buyer="Lawson" />
+  <product name="XANTHIUM STRUMARIUM VAR CANADENSE POLLEN" price="1091.38" buyer="Nicole Martinez" />
+  <product name="smart sense nighttime cold and flu relief" price="1101.77" buyer="Moreno" />
+  <product name="PREMIER VALUE ALLERGY" price="1127.61" buyer="Eugene Stewart" />
+  <product name="Laser Block 100" price="1135.43" buyer="Joshua Murray" />
+  <product name="Flumazenil" price="1151.37" buyer="Fred Barnes" />
+  <product name="Baza Antifungal" price="1162.34" buyer="Nicole Martinez" />
+  <product name="Benazepril Hydrochloride and Hydrochlorothiazide" price="1187.27" buyer="Anna Clark" />
+  <product name="Aspergillus repens" price="1231.42" buyer="Bonnie Fox" />
+  <product name="IOPE RETIGEN MOISTURE TWIN CAKE NO.21" price="1257.71" buyer="Joshua Murray" />
+  <product name="Zonisamide" price="1305.41" buyer="Clarence Fowler" />
+  <product name="Hydralazine Hydrochloride" price="1309.72" buyer="Nicole Harris" />
+  <product name="Metoprolol Tartrate" price="1405.74" buyer="Peterson" />
+  <product name="Triamterene and Hydrochlorothiazide" price="1416.59" buyer="Bennett" />
+  <product name="Effervescent Cold Relief" price="1436.07" buyer="Clarence Fowler" />
+  <product name="Etodolac" price="1443.13" buyer="Betty Ward" />
+  <product name="smart sense nicotine" price="1444.12" buyer="Wanda Harris" />
+  <product name="Gilotrif" price="1454.77" buyer="Patricia Cooper" />
+  <product name="GEMCITABINE" price="1468.11" buyer="Patricia Cooper" />
+</products>
